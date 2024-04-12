@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as n,F as c,a as e}from"./index-BXMVKVBn.js";const o=""+new URL("bianpao-Bz_Eo5d6.png",import.meta.url).href,a={},r=e("img",{src:o},null,-1),_=e("img",{src:o},null,-1),l=e("img",{src:o},null,-1);function i(m,d){return t(),n(c,null,[r,_,l],64)}const u=s(a,[["render",i]]);export{u as default};
